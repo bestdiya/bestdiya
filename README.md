@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects in FinTech, HealthTech, or Scientific Research**
 
-- 📫 How to reach me **b**
+- 📫 How to reach me **banerjeearpita1920@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
