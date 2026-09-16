@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhanjana Banerjee</h1>
-<h3 align="center">From Data to Insight | Passionate About AI in FinTech, HealthTech & Research | Learning by Doing</h3>
+<h3 align="center">From Data to Insight | Passionate About AI in Finance, Healthcare & Research | Learning by Doing</h3>
 
 - 🔭 I’m currently working on **Hands-on data analysis projects across domains like finance, sustainability, and healthcare. I have also participated in the Shell.ai Hackathon 2025, applying machine learning to real-world challenges in sustainable energy.**
 
